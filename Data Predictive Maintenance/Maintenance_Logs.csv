@@ -1,0 +1,47 @@
+"Maintenance Schedule (Table 3: Maintenance_Log)	",,,,,
+Machine_ID,Last_Maintenance_Date,Next_Scheduled_Maintenance,Maintenance_Type,Technician_Name,Maintenance_Comments
+CNC006,8/2/2024,9/16/2024,Routine Inspection,Technician F,"Routine oiling, checked bearings"
+CNC007,8/3/2024,9/17/2024,Vibration Control,Technician G,Adjusted vibration damping
+CNC008,8/12/2024,9/22/2024,Temperature Check,Technician H,Inspected cooling system
+CNC009,8/6/2024,9/19/2024,Electrical System,Technician I,Checked electrical components
+CNC010,8/14/2024,9/23/2024,Spindle Inspection,Technician J,Checked spindle alignment
+CNC011,8/4/2024,9/15/2024,Routine Inspection,Technician K,"Routine oiling, checked bearings"
+CNC012,8/8/2024,9/18/2024,Vibration Control,Technician L,Adjusted vibration damping
+CNC013,8/10/2024,9/20/2024,Temperature Check,Technician M,Inspected cooling system
+CNC014,8/7/2024,9/19/2024,Electrical System,Technician N,Checked electrical components
+CNC015,8/11/2024,9/21/2024,Spindle Inspection,Technician O,Checked spindle alignment
+CNC016,8/5/2024,9/17/2024,Routine Inspection,Technician P,"Routine oiling, checked bearings"
+CNC017,8/13/2024,9/25/2024,Vibration Control,Technician Q,Adjusted vibration damping
+CNC018,8/9/2024,9/23/2024,Temperature Check,Technician R,Inspected cooling system
+CNC019,8/6/2024,9/20/2024,Electrical System,Technician S,Checked electrical components
+CNC020,8/15/2024,9/26/2024,Spindle Inspection,Technician T,Checked spindle alignment
+CNC021,8/1/2024,9/15/2024,Routine Inspection,Technician U,"Routine oiling, checked bearings"
+CNC022,8/3/2024,9/17/2024,Vibration Control,Technician V,Adjusted vibration damping
+CNC023,8/12/2024,9/22/2024,Temperature Check,Technician W,Inspected cooling system
+CNC024,8/5/2024,9/19/2024,Electrical System,Technician X,Checked electrical components
+CNC025,8/14/2024,9/24/2024,Spindle Inspection,Technician Y,Checked spindle alignment
+CNC026,8/4/2024,9/16/2024,Routine Inspection,Technician Z,"Routine oiling, checked bearings"
+CNC027,8/10/2024,9/20/2024,Vibration Control,Technician A,Adjusted vibration damping
+CNC028,8/11/2024,9/21/2024,Temperature Check,Technician B,Inspected cooling system
+CNC029,8/6/2024,9/19/2024,Electrical System,Technician C,Checked electrical components
+CNC030,8/15/2024,9/26/2024,Spindle Inspection,Technician D,Checked spindle alignment
+CNC031,8/2/2024,9/18/2024,Routine Inspection,Technician E,"Routine oiling, checked bearings"
+CNC032,8/3/2024,9/19/2024,Vibration Control,Technician F,Adjusted vibration damping
+CNC033,8/10/2024,9/20/2024,Temperature Check,Technician G,Inspected cooling system
+CNC034,8/5/2024,9/19/2024,Electrical System,Technician H,Checked electrical components
+CNC035,8/13/2024,9/23/2024,Spindle Inspection,Technician I,Checked spindle alignment
+CNC036,8/4/2024,9/17/2024,Routine Inspection,Technician J,"Routine oiling, checked bearings"
+CNC037,8/12/2024,9/25/2024,Vibration Control,Technician K,Adjusted vibration damping
+CNC038,8/8/2024,9/21/2024,Temperature Check,Technician L,Inspected cooling system
+CNC039,8/7/2024,9/22/2024,Electrical System,Technician M,Checked electrical components
+CNC040,8/15/2024,9/26/2024,Spindle Inspection,Technician N,Checked spindle alignment
+CNC041,8/3/2024,9/17/2024,Routine Inspection,Technician O,"Routine oiling, checked bearings"
+CNC042,8/9/2024,9/23/2024,Vibration Control,Technician P,Adjusted vibration damping
+CNC043,8/11/2024,9/24/2024,Temperature Check,Technician Q,Inspected cooling system
+CNC044,8/8/2024,9/21/2024,Electrical System,Technician R,Checked electrical components
+CNC045,8/14/2024,9/25/2024,Spindle Inspection,Technician S,Checked spindle alignment
+CNC046,8/5/2024,9/18/2024,Routine Inspection,Technician T,"Routine oiling, checked bearings"
+CNC047,8/12/2024,9/25/2024,Vibration Control,Technician U,Adjusted vibration damping
+CNC048,8/9/2024,9/22/2024,Temperature Check,Technician V,Inspected cooling system
+CNC049,8/10/2024,9/24/2024,Electrical System,Technician W,Checked electrical components
+CNC050,8/13/2024,9/26/2024,Spindle Inspection,Technician X,Checked spindle alignment
