@@ -176,3 +176,5 @@ Model Selection and Training:
 - Use real-time monitoring with IoT sensors.  
 - Focus on reducing idle hours to enhance efficiency and minimize downtime.  
 ---
+# Dashboard
+![DashBoard](https://github.com/user-attachments/assets/f772ac9b-0707-4499-bdc5-e7e908519506)
