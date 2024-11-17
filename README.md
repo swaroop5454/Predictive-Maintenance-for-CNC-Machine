@@ -110,6 +110,42 @@ The dataset contains multiple tables combined into one file:
 3. **Rejection Rate:**  
    - Highest: 4.5%  
    - Lowest: 1.2%  
+---
+# Data Visualization
+
+### Univariate Analysis
+![image](https://github.com/user-attachments/assets/d322bc50-391d-49a8-a8a9-827b36e016d0)
+
+ 
+### Density Plot:
+![image](https://github.com/user-attachments/assets/841f6ecf-da2e-471e-b39a-7529d6206190)
+
+ 
+### Correlation Plot:
+![image](https://github.com/user-attachments/assets/2ff1311e-c152-479d-b418-35ae7f45d32c)
+
+ 
+### Dimensionality Reduction using Principal Component Analysis
+![image](https://github.com/user-attachments/assets/2edf5cdd-e9f1-4b63-a1e9-4dffca44f784)
+
+
+
+## MODELLING	
+
+Model Selection and Training:
+	Random Forest: Works well with structured data and helps with feature importance.
+	Support Vector Machine (SVM): Effective for binary classification.
+	LSTM: If using time-series sequences, reshape your data to suit LSTM input requirements
+
+
+### Random Forest:
+![image](https://github.com/user-attachments/assets/565892d5-32af-4e8b-b314-6b0bb7bb10eb)
+
+ 
+
+### Support Vector Machine (SVM)
+ ![image](https://github.com/user-attachments/assets/47ad5e4d-f511-4c7b-a8bd-b58eb5616513)
+
 
 ---
 # Conclusion
